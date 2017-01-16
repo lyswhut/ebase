@@ -9,6 +9,7 @@ eBase是一个简易的JavaScript库，该库封装了常用的JavaScript片段�
 ```
 ## 调用方法
 语法与jQuery的语法基本一致。
+
 获取一个id为“box”的DOM节点并把它的背景颜色设置为红色。
 ```
 _('#box').css('backgroundColor', 'red');
